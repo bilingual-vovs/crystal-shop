@@ -1,0 +1,30 @@
+.menu-item{
+    color: white;
+    font-family: monospace;
+    font-size: 3.3em;
+
+    margin-left: 2em;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 20em;
+}
+
+#basket{
+    width: 7em;
+    justify-self: end;
+}
+
+#header{
+    margin: 1em;
+    align-items: center;
+    display: flex;
+    justify-content: stretch;
+
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
