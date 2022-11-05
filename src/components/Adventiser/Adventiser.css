@@ -1,0 +1,44 @@
+.adventiser{
+    margin: 4em;
+    margin-top: 0em;
+}
+.adventiser h1{
+    font-family: Google Sans;
+    color: white;
+    font-size: 40px;
+    line-height: 64px;
+    font-weight: 400;
+}
+.adventiser h2{
+    font-family: Google Sans;
+    font-size: 16px;
+    line-height: 24px;
+    width: 400px;
+    font-weight: 400;
+    color:#317189;
+}
+.adventiser button{
+    background-color: white;
+    padding: 1em 2em 1em 2em;
+    margin: 1em;
+    margin-left: 0;
+
+    border: none;
+    border-radius: 18px;
+
+    font-weight: 700;
+    font-family: Google Sans;
+    color: #317189;
+}
+
+.adventiser a {
+    text-decoration: none;
+    font-family: Google Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #317189;
+    margin-left: 1em;
+}

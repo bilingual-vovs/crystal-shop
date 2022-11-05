@@ -10,6 +10,10 @@
 #landing-img{
     width: 100vw;
     height: 100vh;
+    position: absolute;
+
+    top: 10vh;
+    left: 0;
     
     align-self: end;
 
