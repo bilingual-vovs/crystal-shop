@@ -1,0 +1,32 @@
+.slider-box{
+    position: absolute;
+    top: 20vh;
+    left: 55vw;
+    z-index: 10;
+    padding: 3em;
+    margin: -3em;
+}
+
+#slider{
+    display: flex;
+    align-items: center;
+    margin-top: 1em;
+    justify-content: center;
+}
+
+#slider img{
+    margin: 0.4em;
+    border-radius: 5px;
+}
+
+.circle-indicator{
+    width: 14px;
+    height: 14px;
+    border-radius: 100%;
+    background-color: #D7DBFF;
+    margin: 0.3em;
+}
+
+.active{
+    background-color: #8A93E5;
+}

@@ -4,7 +4,7 @@ import "./Landing.css"
 import wave from "./Wave.svg"
 import Header from '../Header/Header';
 import Adventiser from '../Adventiser/Adventiser';
-import Product from '../Product/Product';
+import Slider from '../Slider/Slider';
 
 class Landing extends Component {
     render() {
@@ -12,7 +12,7 @@ class Landing extends Component {
             <div id='landing'>
                 <Header/>
                 <Adventiser/>
-                <Product/>
+                <Slider/>
                 <img id='landing-img' src={wave} alt="" />
             </div>
         );
