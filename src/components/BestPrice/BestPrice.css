@@ -1,0 +1,13 @@
+#best-price-box img{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    
+}
+#best-price-box{
+    background: rgb(132,129,255);
+    background: linear-gradient(45deg, rgba(132,129,255,1) 0%, rgba(46,241,253,1) 38%, rgba(4,48,161,1) 100%);
+    background: radial-gradient(circle, rgba(1,240,255,1) 38%, rgba(0,102,255,1) 100%);
+    background: radial-gradient(top, rgba(1,240,255,1) 38%, rgba(0,102,255,1) 100%);
+}

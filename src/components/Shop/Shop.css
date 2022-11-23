@@ -2,3 +2,51 @@
     background-color: white;
     width: 100vw;
 }
+
+.shop-box h1 {
+    font-family: Google Sans;
+    font-size: 46px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #31546D;
+}
+
+.shopping-box{
+    margin: 0 auto;
+}
+
+.filters-box{
+    display: flex;
+    padding-left: 2em;
+}
+
+.filters-box img{
+    margin-top: 10px;
+    width: 10px;
+    height: 10px;
+    margin-right: 5em;
+}
+
+#one{
+    font-family: Google Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #31546D;
+    margin: 0 0.5em;
+}
+
+#two{
+    margin: 0;
+    font-family: Google Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #9AB0C0;
+}

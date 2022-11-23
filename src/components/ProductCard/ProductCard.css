@@ -2,6 +2,10 @@
     transition-duration: 400ms;
 }
 
+.container{
+    display: flex;
+}
+
 .centered{
     margin: auto;
 }
@@ -13,6 +17,7 @@
 
     border: 2px solid #F2F2F2;
     align-items: center;
+    margin: 1em;
 }
 
 .product-cards:hover{
@@ -20,9 +25,9 @@
 }
 
 .product-cards img {
-    height: 198px;
-    width: 198px;
-    margin: 20px 60px;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
 
     border-radius: 0px;
 
